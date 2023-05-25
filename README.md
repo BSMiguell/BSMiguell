@@ -2,9 +2,6 @@
 # 👋 Hello! Welcome to my GitHub profile.
 ## My name is Bruno and my nickname is "BSM"!
 
-<div>
-  <a hrf="https://effervescent-cheesecake-eb0ab6.netlify.app/">teste</a>
-</div>
 
 ## Technologies I'm learning
 <div>
