@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 # 👋 Hello! Welcome to my GitHub profile.
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=false&vCenter=true&width=1000&lines=HELLO,+My+name+is+Bruno+Miguel;I'm+18+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D19A66&size=35&center=false&vCenter=true&width=1000&lines=HELLO,+My+name+is+Bruno+Miguel;I'm+18+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 ## Technologies I'm learning
 <div>
