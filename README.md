@@ -31,6 +31,8 @@
   </a>
 </div>
 
+<div width="40" height="40">
 [![trophy](https://github-profile-trophy.vercel.app/?username=BSMiguell&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
 
