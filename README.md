@@ -34,6 +34,6 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BSMiguell&theme=onedark)](https://github.com/BSMiguell/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BSMiguell&theme=onedark)]
 
 
