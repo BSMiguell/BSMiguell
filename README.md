@@ -31,10 +31,5 @@
   </a>
 </div>
 
-# BSMiguell's GitHub Stats
 
-[![Estrelas](https://img.shields.io/github/stars/BSMiguell?style=social)](https://github.com/BSMiguell?tab=stars)
-[![Forks](https://img.shields.io/github/forks/BSMiguell?style=social)](https://github.com/BSMiguell?tab=forks)
-[![Issues](https://img.shields.io/github/issues/BSMiguell?style=social)](https://github.com/BSMiguell?tab=issues)
 
-[![GitHub followers](https://img.shields.io/github/followers/BSMiguell?label=Follow&style=social)](https://github.com/BSMiguell)
