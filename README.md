@@ -32,6 +32,8 @@
   </a>
 </div>
 
+## GitHub streak
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BSMiguell&theme=onedark-duo&hide_border=falso&card_width=500)](https://git.io/streak-stats)
 
 
