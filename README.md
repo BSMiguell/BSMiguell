@@ -33,6 +33,7 @@
 
 
 
-https://github-profile-trophy.vercel.app/?username=BSMiguell&column=-1&theme=monokai
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=BSMiguell&theme=onedark)](https://github.com/BSMiguell/github-profile-trophy)
 
 
