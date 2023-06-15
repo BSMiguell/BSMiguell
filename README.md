@@ -1,9 +1,8 @@
 ### Hi there 👋
 # 👋 Hello! Welcome to my GitHub profile.
 ## My name is Bruno and my nickname is "BSM"!
-[[Typing SVG](https://readme-typing-svg.herokuapp.com/? 
-color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines-HELLO,+MY+NAME+is+Caroline+Barbosa; I'm+25+years+old; I+from+Brazil; I+Graduated+systems +Development; Be+Welc
-omel+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Caroline+Barbosa;I'm+26+years+old;I'm+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 
 
 ## Technologies I'm learning
