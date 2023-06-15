@@ -1,13 +1,12 @@
+<center>
+
 ### Hi there 👋
 # 👋 Hello! Welcome to my GitHub profile.
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Bruno+Miguel;I'm+18+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
-
-
 ## Technologies I'm learning
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40" center=true/>   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/>   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/>   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
@@ -34,6 +33,9 @@
 </div>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=BSMiguell&theme=onedark-duo&hide_border=falso&card_width=500)](https://git.io/streak-stats)
+
+</center>
+
 
 
 
