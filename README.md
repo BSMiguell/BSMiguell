@@ -32,6 +32,7 @@
 </div>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BSMiguell&column=-1)
+
+https://github-profile-trophy.vercel.app/?username=BSMiguell&column=-1&theme=monokai
 
 
