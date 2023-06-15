@@ -31,6 +31,6 @@
   </a>
 </div>
 
-https://github-profile-trophy.vercel.app/BSMiguelle=ryo-ma&theme=monokai
+[![trophy](https://github-profile-trophy.vercel.app/?username=BSMiguell&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
