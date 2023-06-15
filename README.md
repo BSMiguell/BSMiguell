@@ -24,13 +24,13 @@
 
 <div>
   <a href="https://github.com/BSMiguell">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSMiguell&layout=compact&langs_count=7&theme=radical" alt="Most Used Languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSMiguell&layout=compact&langs_count=7&theme=monokai" alt="Most Used Languages"/>
   </a>
   <a href="https://github.com/BSMiguell">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BSMiguell&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BSMiguell&show_icons=true&theme=monokai&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   </a>
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BSMiguell&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BSMiguell&theme=monokai)](https://github.com/ryo-ma/github-profile-trophy)
 
 
