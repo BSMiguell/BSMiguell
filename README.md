@@ -17,9 +17,10 @@
 ## GitHub Stats
 <div>
   <a href="https://github.com/BSMiguell">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSMiguell&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BSMiguell&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSMiguell&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BSMiguell&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
 </div>
+
 
 ## Connect with me
 <div>
